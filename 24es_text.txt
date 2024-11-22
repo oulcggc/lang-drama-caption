@@ -16,7 +16,7 @@ INSPECTOR. - ¿Y a mí qué?
 MAGDA. - Quería presentar denuncia.
 INSPECTOR. - ¡Denuncia! ¿Será posible?
 INSPECTOR. - ¿No tiene usted nada mejor que hacer que venir aquí
-a presentar denuncia porque su marido le ha pegado,
+INSPECTOR. - a presentar denuncia porque su marido le ha pegado,
 INSPECTOR. - un domingo por la tarde, mientras retransmiten el partido de fútbol?
 MAGDA. - Me ha hecho mucho daño... Me ha roto el brazo...
 MAGDA. - Y me ha echado de casa. DIce que no me volverá a dejar entrar.
@@ -24,16 +24,16 @@ MAGDA. - Dice que va a meter a los niños en un asilo para que no le molesten m�
 INSPECTOR. - ¿Por qué?
 MAGDA. - Dice que ya no me quiere, que no le gusto.
 MAGDA. - Dice que los niños y yo le molestamos,
-que hacemos mucho ruido y que no le dejamos oír el partido.
+MAGDA. - que hacemos mucho ruido y que no le dejamos oír el partido.
 INSPECTOR. - ¿Y eso es verdad?
 MAGDA. - Bue... bueno, a veces sí, claro...
 MAGDA. - Los niños son pequeños... Juegan y chillan y yo no puedo...
 INSPECTOR. - ¡Y todavía querrá denunciarlo!
-Un pobre hombre, cansado de trabajar, que regresa a su casa
+INSPECTOR. - Un pobre hombre, cansado de trabajar, que regresa a su casa
 INSPECTOR. - para disfrutar con el inocente recreo de escuchar un partido de fútbol, final de Copa, 
 INSPECTOR. - además y competición contra el Madrid en su propio campo.
 INSPECTOR. - Y se encuentra con una mujer llorona
-y unos niños gritones que no le dejan oír con tranquilidad...
+INSPECTOR. - y unos niños gritones que no le dejan oír con tranquilidad...
 INSPECTOR. - ¡Pero si es para matarlos a todos! ¡Poco le ha hecho!
 SUBINSPECTOR. - ¡Inspector! Han atracado el Banco Requejo.
 SUBINSPECTOR. - ¡Aquí mismo! ¡Los atracadores están dentro!
@@ -100,20 +100,20 @@ MARGARITA. - ¡Eso es abandono de familia, y además malicioso!
 ABOGADO. - ¿Y usted cómo sabe cuál es el abandono malicioso del hogar?
 MARGARITA. - Lo he mirado en el Código Penal. Me compré uno...
 ABOGADO. - ¿Entonces para qué viene a molestar a un profesional
- que conoce mucho mejor que usted los matices, los detalles jurídicos,
+ABOGADO. -  que conoce mucho mejor que usted los matices, los detalles jurídicos,
 ABOGADO. - ¡Usted se compra un Código Penal y cree que ya sabe las leyes! 
 ABOGADO. - Y ¿entonces para qué estamos los abogados? 
 ABOGADO. - ¿Usted no sabe tampoco que no puede pedirse el divorcio así como así? 
 ABOGADO. - ¿sabe? 
 ABOGADO. - ¿Que debe denunciarse previamente a la presentación de la demanda de separación?
 MARGARITA. - Ya lo sé. Ya lo he intentado.
-Estuve ayer por la tarde en la comisaría...
+MARGARITA. - Estuve ayer por la tarde en la comisaría...
 ABOGADO. -  ¿Y qué pasó?
 MARGARITA. - No me quisieron tomar la denuncia. 
 MARGARITA. - El comisario dijo que era una tontería,
-que ya regresaría mi marido
+MARGARITA. - que ya regresaría mi marido
 MARGARITA. - y que mientras tanto aprovechara para limpiar la casa y hacerle una buena comida,
-que volvería muy cansado...
+MARGARITA. - que volvería muy cansado...
 ABOGADO. -  Acertado consejo. Las penas delante de un buen estofado siempre son menos,
 ABOGADO. - y si usted atiende su casa con devoción y se dedica a reconquistar a su esposo　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ABOGADO. - A la salida no se olvide de pagar a mi secretaria la visita.
@@ -139,7 +139,7 @@ VOZ. - Está usted fijada en la fase infantil.
 VOZ. - No ha superado el complejo de Edipo y busca realizar el amor hacia su padre en la persona de su amante.
 MARÍA. - No, no sé. Él siempre estaba quejándose de que su mujer no le comprendía. 
 MARÍA. - Yo lo cuidaba y lo mimaba, 
-porque siempre decía que el hacía falta cariño, que nadie le atendía como yo.
+MARÍA. - porque siempre decía que el hacía falta cariño, que nadie le atendía como yo.
 VOZ. - Complejo de Yocasta. Instinto materno no satisfecho. Usted desea tener hijos.
 MARÍA. -  Ahora no, porque él tiene varios y tiene que mantener a su esposa y a ellos.
 MARÍA. - Siempre estaba escaso de dinero.
@@ -148,7 +148,7 @@ VOZ. - ¿Por qué el ha dejado?
 MARÍA. - No me ha dado ninguna explicación. Creo que sale con otra. 
 MARÍA. - Me despidió con una carta breve y se llevó el anillo de brillantes que me había regalado. 
 MARÍA. - Me di cuenta cuando es había ido, me lo quitó del joyero... 
-y las llaves del apartamento que me sacó del bolso, sin que me diera cuenta tampoco. 
+MARÍA. - y las llaves del apartamento que me sacó del bolso, sin que me diera cuenta tampoco. 
 MARÍA. - No hubiera podido creerlo nunca.
 MARÍA. - Y en la carta me dice que deje el apartamento igual que lo encontré... sin más explicación.
 VOZ. - ¡No la oigo! ¡Hable en el micrófono!

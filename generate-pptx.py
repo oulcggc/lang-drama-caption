@@ -8,8 +8,10 @@ if os.path.exists("complete-cap.pptx"):
     os.remove("complete-cap.pptx")
     os.remove("../本番スライド/2024字幕.pptx")
 
+# Path to the text files
 es_path = './24es_text.txt'
 ja_path = './24ja_text.txt'
+
 # Read the content of the files
 with open(es_path, 'r', encoding='utf-8') as file:
     es_text = file.readlines()
@@ -18,29 +20,27 @@ with open(ja_path, 'r', encoding='utf-8') as file:
     ja_text = file.readlines()
 output_path = '.'
 
-# in turns
+# Arrange the text in the desired order
 def arrange(array_1, array_2):
     array = []
-    min_len = min(len(array_1), len(array_2))
-    for i in range(min_len):
-        array.append(array_1[i])
-        array.append(array_2[i])
-    return array
+    min_len = min(len(array_1), len(array_2)) # Determine the minimum length of the two arrays
+    for i in range(min_len): # Loop through the minimum length
+        array.append(array_1[i]) # Add the first element to the new array
+        array.append(array_2[i]) # Add the second element to the new array
+    return array # Return the new array
 
-# new presentation
+# Create a PowerPoint presentation
 def createPptx(array, int_font_size, output_path):
-    # font-size
+    # font_size
     font_size = Pt(int_font_size)
-    # a_presentation
+    # Create a presentation
     prs = Presentation()
-    # b_slide_layout
+    # Set the slide layout and size
     slide_layout = prs.slide_layouts[6]
     prs.slide_width = Inches(13.33)
-    prs.slide_heigth = Inches(7.5)
-    
+    prs.slide_heigth = Inches(4.8)
     # Calculate the center coordinates of the slide
     center_x = prs.slide_width / 2  
-    
     # Calculate the size of the shape (e.g., a circle with a diameter of 2 inches)
     shape_width = Pt(690)
 
@@ -56,7 +56,7 @@ def createPptx(array, int_font_size, output_path):
 
         # org_size
         org_left_pt = center_x - shape_width / 2
-        org_top_pt = Pt(320)
+        org_top_pt = Pt(100)
         org_width_pt = Pt(560)
         org_height_pt = Pt(157)
 
@@ -75,7 +75,7 @@ def createPptx(array, int_font_size, output_path):
 
         # trg_size
         trg_left_pt = center_x - shape_width / 2
-        trg_top_pt = Inches(8.0)
+        trg_top_pt = Inches(5.0)
         trg_width_pt = shape_width
         trg_height_pt = Pt(157)
 
