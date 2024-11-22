@@ -4,8 +4,7 @@ from pptx.dml.color import RGBColor
 import os
 
 # Remove the existing presentation file if it exists
-if os.path.exists("complete-cap.pptx"):
-    os.remove("complete-cap.pptx")
+if os.path.exists("../本番スライド/2024字幕.pptx"):
     os.remove("../本番スライド/2024字幕.pptx")
 
 es_path = './24es_text.txt'
@@ -48,52 +47,51 @@ def createPptx(array, int_font_size, output_path):
         # c_slide
         slide = prs.slides.add_slide(slide_layout)
 
-        # background
+        # Set background color black
         background = slide.background
         fill = background.fill
         fill.solid()
         fill.fore_color.rgb = RGBColor(0, 0, 0)
 
-        # org_size
+        # Set the standard of placeholders
         org_left_pt = center_x - shape_width / 2
-        org_top_pt = Pt(320)
+        org_top_pt = Pt(150)
         org_width_pt = Pt(560)
         org_height_pt = Pt(157)
 
-        # org_text
+        # Organize the placeholders
         org_textbox = slide.shapes.add_textbox(left=org_left_pt, top=org_top_pt, width=org_width_pt, height=org_height_pt)
         org_text_frame = org_textbox.text_frame
         org_text_frame.word_wrap = True
         org_text_frame.text = array[2*k]  # Use 2k-1 as the index for the first element
 
-        # font-size of org_text
+        # Set font family, font size, and font color
         for paragraph in org_textbox.text_frame.paragraphs:
             for run in paragraph.runs:
                 run.font.size = font_size
                 run.font.name = 'Times New Roman'
                 run.font.color.rgb = RGBColor(255, 255, 255)
 
-        # trg_size
+        # Set the standard of trg_text
         trg_left_pt = center_x - shape_width / 2
-        trg_top_pt = Inches(8.0)
+        trg_top_pt = Inches(5.0)
         trg_width_pt = shape_width
         trg_height_pt = Pt(157)
 
-        # trg_text
+        # Organize the placeholders
         trg_textbox = slide.shapes.add_textbox(left=trg_left_pt, top=trg_top_pt, width=trg_width_pt, height=trg_height_pt)
         trg_text_frame = trg_textbox.text_frame
         trg_text_frame.word_wrap = True
         trg_text_frame.text = array[2*k + 1]  # Use 2k as the index for the second element
 
-        # font-size of trg_text
+        # Set font family, font size, and font color
         for paragraph in trg_textbox.text_frame.paragraphs:
             for run in paragraph.runs:
                 run.font.size = font_size
                 run.font.name = 'MS Mincho'
                 run.font.color.rgb = RGBColor(255, 255, 255)
 
-    # saving the presentation
-    prs.save("complete-cap.pptx")
+    # Save the presentation
     prs.save("../本番スライド/2024字幕.pptx")
 
 # arrange
