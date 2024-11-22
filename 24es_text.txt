@@ -30,9 +30,7 @@ MAGDA. - Bue... bueno, a veces sí, claro...
 MAGDA. - Los niños son pequeños... Juegan y chillan y yo no puedo...
 INSPECTOR. - ¡Y todavía querrá denunciarlo!
 Un pobre hombre, cansado de trabajar, que regresa a su casa
-no dude que él volverá a usted, como debe...
-INSPECTOR. - para disfrutar con el inocente recreo de
-escuchar un partido de fútbol, final de Copa, 
+INSPECTOR. - para disfrutar con el inocente recreo de escuchar un partido de fútbol, final de Copa, 
 INSPECTOR. - además y competición contra el Madrid en su propio campo.
 INSPECTOR. - Y se encuentra con una mujer llorona
 y unos niños gritones que no le dejan oír con tranquilidad...
@@ -61,7 +59,8 @@ ESCENAⅡ
 ABOGADO. - ¿Dice usted que quiere divorciarse?
 ABOGADO. -¿Y puede saberse por qué?
 MARGARITA. - Mi marido se ha ido de casa con su secretaria. 
-MARGARITA. - ¿Le parece poco?   ABOGADO. - Veamos... veamos.
+MARGARITA. - ¿Le parece poco? 
+ABOGADO. - Veamos... veamos.
 ABOGADO. - Puede ser mucho y puede ser poco.  ¿A dónde se han ido?
 MARGARITA. - A Mallorca. A pasar unos días de vacaciones.
 MARGARITA. - Se hospedan en el Hotel Central.
@@ -100,20 +99,23 @@ MARGARITA. - Ayer me cortaron al luz por falta de pago.
 MARGARITA. - ¡Eso es abandono de familia, y además malicioso!
 ABOGADO. - ¿Y usted cómo sabe cuál es el abandono malicioso del hogar?
 MARGARITA. - Lo he mirado en el Código Penal. Me compré uno...
-ABOGADO. - ¿Entonces para qué viene a molestar a un profesional, que conoce mucho mejor que usted los matices, los detalles jurídicos,
+ABOGADO. - ¿Entonces para qué viene a molestar a un profesional
+ que conoce mucho mejor que usted los matices, los detalles jurídicos,
 ABOGADO. - ¡Usted se compra un Código Penal y cree que ya sabe las leyes! 
 ABOGADO. - Y ¿entonces para qué estamos los abogados? 
 ABOGADO. - ¿Usted no sabe tampoco que no puede pedirse el divorcio así como así? 
 ABOGADO. - ¿sabe? 
 ABOGADO. - ¿Que debe denunciarse previamente a la presentación de la demanda de separación?
-MARGARITA. - Ya lo sé. Ya lo he intentado. Estuve ayer por la tarde en la comisaría...
+MARGARITA. - Ya lo sé. Ya lo he intentado.
+Estuve ayer por la tarde en la comisaría...
 ABOGADO. -  ¿Y qué pasó?
 MARGARITA. - No me quisieron tomar la denuncia. 
-MARGARITA. - El comisario dijo que era una tontería, que ya regresaría mi marido
-MARGARITA. - y que mientras tanto aprovechara para limpiar la casa y hacerle una buena comida, que volvería muy cansado...
+MARGARITA. - El comisario dijo que era una tontería,
+que ya regresaría mi marido
+MARGARITA. - y que mientras tanto aprovechara para limpiar la casa y hacerle una buena comida,
+que volvería muy cansado...
 ABOGADO. -  Acertado consejo. Las penas delante de un buen estofado siempre son menos,
-ABOGADO. - y si usted atiende su casa con devoción y se dedica a reconquistar a su esposo
-no dude que él volverá a usted, como debe...
+ABOGADO. - y si usted atiende su casa con devoción y se dedica a reconquistar a su esposo　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 ABOGADO. - A la salida no se olvide de pagar a mi secretaria la visita.
 ESCENA Ⅲ
 VOZ. - ¿Quién llama?

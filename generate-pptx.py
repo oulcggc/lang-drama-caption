@@ -6,6 +6,7 @@ import os
 # Remove the existing presentation file if it exists
 if os.path.exists("complete-cap.pptx"):
     os.remove("complete-cap.pptx")
+    os.remove("../本番スライド/2024字幕.pptx")
 
 es_path = './24es_text.txt'
 ja_path = './24ja_text.txt'
@@ -55,7 +56,7 @@ def createPptx(array, int_font_size, output_path):
 
         # org_size
         org_left_pt = center_x - shape_width / 2
-        org_top_pt = Pt(120)
+        org_top_pt = Pt(320)
         org_width_pt = Pt(560)
         org_height_pt = Pt(157)
 
@@ -74,7 +75,7 @@ def createPptx(array, int_font_size, output_path):
 
         # trg_size
         trg_left_pt = center_x - shape_width / 2
-        trg_top_pt = Inches(4.5)
+        trg_top_pt = Inches(8.0)
         trg_width_pt = shape_width
         trg_height_pt = Pt(157)
 
