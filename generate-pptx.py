@@ -56,7 +56,7 @@ def createPptx(array, int_font_size, output_path):
         # Set the standard of placeholders
         org_left_pt = center_x - shape_width / 2
         org_top_pt = Pt(150)
-        org_width_pt = Pt(560)
+        org_width_pt = Pt(700)
         org_height_pt = Pt(157)
 
         # Organize the placeholders
