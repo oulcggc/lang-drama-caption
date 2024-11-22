@@ -52,7 +52,7 @@ INSPECTOR. - La seguridad de la patria está en peligro y usted llorando por un 
 INSPECTOR. - Nosotros arriesgándonos la vida por usted, y otros como usted, 
 INSPECTOR, - para degenderlos de criminales, terroristas, chorizos, maricas y demás ralea.
 INSPECTOR, - Y su pobre marido, reventado de trabajar, sin poder disfrutar del partido...
-INSPECTOR, - Ande, ¡váyase! ¡Váyase de una vez y por ésta se lo perdodo!
+INSPECTOR, - Ande, ¡váyase! ¡Váyase de una vez y por ésta se lo perdono!
 INSPECTOR, - ¡Pero que no se repita!
 MARGARITA. - Buenas tardes...
 ESCENAⅡ
@@ -84,7 +84,7 @@ ABOGADO. - Pero dígame, ¿cómo puede usted presentar semejantes pruebas, ni au
 MARGARITA. - Por supuesto eso es imposible. Pero mi marido sale con esa señorita desde hace dos años. 
 MARGARITA. - Van a todas partes juntos, cogidos del brazo. 
 MARGARITA. - Le ha regalado incluso el anillo de brillantes de pedida que me regalaron sus padres antes de casarnos,
-MARGARITA. - También tiene alquilado un apar- tamento donde van juntos al terminar el trabajo
+MARGARITA. - También tiene alquilado un apartamento donde van juntos al terminar el trabajo
 MARGARITA. - y los vecinos los han visto entrar y salir.
 ABOGADO. - Indicios, suposiciones. ¡Ta, ta, ta!
 ABOGADO. - Ello hubiese bastado en el Tribunal Eclesiástico para tramitar una separación por sospecha de adulterio,
@@ -146,7 +146,7 @@ MARÍA. -Yo tenía que pagarme mi parte de los gastos...
 VOZ. - ¿Por qué el ha dejado?
 MARÍA. - No me ha dado ninguna explicación. Creo que sale con otra. 
 MARÍA. - Me despidió con una carta breve y se llevó el anillo de brillantes que me había regalado. 
-MARÍA. - Me di cuenta cuando es había ido, me lo quitó del joyero... 
+MARÍA. - Me di cuenta cuando se había ido, me lo quitó del joyero... 
 MARÍA. - y las llaves del apartamento que me sacó del bolso, sin que me diera cuenta tampoco. 
 MARÍA. - No hubiera podido creerlo nunca.
 MARÍA. - Y en la carta me dice que deje el apartamento igual que lo encontré... sin más explicación.
