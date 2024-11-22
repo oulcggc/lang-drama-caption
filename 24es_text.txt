@@ -23,12 +23,14 @@ MAGDA. - Y me ha echado de casa. DIce que no me volverá a dejar entrar.
 MAGDA. - Dice que va a meter a los niños en un asilo para que no le molesten más...
 INSPECTOR. - ¿Por qué?
 MAGDA. - Dice que ya no me quiere, que no le gusto.
-"MAGDA. - Dice que los niños y yo le molestamos,
-que hacemos mucho ruido y que no le dejamos oír el partido."
+MAGDA. - Dice que los niños y yo le molestamos,
+que hacemos mucho ruido y que no le dejamos oír el partido.
 INSPECTOR. - ¿Y eso es verdad?
 MAGDA. - Bue... bueno, a veces sí, claro...
 MAGDA. - Los niños son pequeños... Juegan y chillan y yo no puedo...
-INSPECTOR. - ¡Y todavía querrá denunciarlo!  Un pobre hombre, cansado de trabajar, que regresa a su casa
+INSPECTOR. - ¡Y todavía querrá denunciarlo!
+Un pobre hombre, cansado de trabajar, que regresa a su casa
+no dude que él volverá a usted, como debe...
 INSPECTOR. - para disfrutar con el inocente recreo de
 escuchar un partido de fútbol, final de Copa, 
 INSPECTOR. - además y competición contra el Madrid en su propio campo.
@@ -55,7 +57,6 @@ INSPECTOR, - Y su pobre marido, reventado de trabajar, sin poder disfrutar del p
 INSPECTOR, - Ande, ¡váyase! ¡Váyase de una vez y por ésta se lo perdodo!
 INSPECTOR, - ¡Pero que no se repita!
 MARGARITA. - Buenas tardes...
-TELÓN
 ESCENAⅡ
 ABOGADO. - ¿Dice usted que quiere divorciarse?
 ABOGADO. -¿Y puede saberse por qué?
@@ -114,7 +115,6 @@ ABOGADO. -  Acertado consejo. Las penas delante de un buen estofado siempre son 
 ABOGADO. - y si usted atiende su casa con devoción y se dedica a reconquistar a su esposo
 no dude que él volverá a usted, como debe...
 ABOGADO. - A la salida no se olvide de pagar a mi secretaria la visita.
-TELÓN
 ESCENA Ⅲ
 VOZ. - ¿Quién llama?
 MARÍA. - Soy María Sánchez. Tengo hora con el psiquiatra.
