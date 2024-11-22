@@ -103,8 +103,7 @@ ABOGADO. - ¿Entonces para qué viene a molestar a un profesional
 ABOGADO. -  que conoce mucho mejor que usted los matices, los detalles jurídicos,
 ABOGADO. - ¡Usted se compra un Código Penal y cree que ya sabe las leyes! 
 ABOGADO. - Y ¿entonces para qué estamos los abogados? 
-ABOGADO. - ¿Usted no sabe tampoco que no puede pedirse el divorcio así como así? 
-ABOGADO. - ¿sabe? 
+ABOGADO. - ¿Usted no sabe tampoco que no puede pedirse el divorcio así como así? ¿sabe? 
 ABOGADO. - ¿Que debe denunciarse previamente a la presentación de la demanda de separación?
 MARGARITA. - Ya lo sé. Ya lo he intentado.
 MARGARITA. - Estuve ayer por la tarde en la comisaría...

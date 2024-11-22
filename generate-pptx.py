@@ -44,7 +44,7 @@ def createPptx(array, int_font_size, output_path):
     # Calculate the size of the shape (e.g., a circle with a diameter of 2 inches)
     shape_width = Pt(690)
 
-    for k in range(len(array)//2):  # Use integer division to ensure the loop stops at the last pair
+    for k in range(len(array)//2): # Use integer division to ensure the loop stops at the last pair
         # c_slide
         slide = prs.slides.add_slide(slide_layout)
 
