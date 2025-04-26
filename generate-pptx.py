@@ -2,6 +2,7 @@ from pptx import Presentation
 from pptx.util import Pt, Inches
 from pptx.dml.color import RGBColor
 import os
+import tkinter.filedialog
 
 # Remove the existing presentation file if it exists
 if os.path.exists("../本番スライド/2024字幕.pptx"):
@@ -17,7 +18,18 @@ with open(es_path, 'r', encoding='utf-8') as file:
 
 with open(ja_path, 'r', encoding='utf-8') as file:
     ja_text = file.readlines()
-output_path = '.'
+
+
+
+def specifySaveLocation():
+    global output_path
+    # Open a file dialog to select the output path
+    output_path = tkinter.filedialog.askdirectory()
+    if not output_path:
+        print("No directory selected. Using default path.")
+        output_path = '.'  # Default path if no directory is selected
+    return output_path
+
 
 # Arrange the text in the desired order
 def arrange(array_1, array_2):
@@ -94,6 +106,8 @@ def createPptx(array, int_font_size, output_path):
     # Save the presentation
     prs.save("../本番スライド/2024字幕.pptx")
 
+# Specify the save location using a file dialog
+output_path = specifySaveLocation()
 # arrange
 esja_arrange = arrange(es_text, ja_text)
 
