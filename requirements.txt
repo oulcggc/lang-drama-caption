@@ -3,3 +3,4 @@ pillow==11.2.1
 python-pptx==1.0.2
 typing_extensions==4.13.2
 XlsxWriter==3.2.3
+pytk==0.0.2.1
