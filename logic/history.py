@@ -29,7 +29,7 @@ def add_history(ppt_name, history_file="history.json"):
   append_history = {"id": id, "timestamp": timestamp, "filepath": ppt_name}
   history_data = load_history(history_file)
   history_data.append(append_history)
-  save_history(history_data)
+  save_history(history_data, history_file)
 
 # 履歴を削除
 def delete_history(remove_id, history_file="history.json"):
@@ -62,3 +62,19 @@ def load_history(history_file="history.json"):
 
 # ロード例
 # print(load_history())
+
+
+
+# それぞれの関数はhistory_fileを上書き可能
+# <=> つまりユーザー指定（configに追加機能として実装を検討）
+# の history.json から履歴を参照できる
+
+# 削除例（他のhistory.jsonパスを指定）
+# id="5a011e61-a2d9-4713-a6f2-3f3957233b0d"
+# delete_history(id, "logic/history.json") 
+
+# 作成例（他のhistory.jsonパスを指定）
+# add_history("2026_ichosai_ch", "logic/history.json")
+
+# ロード例（他のhistory.jsonパスを指定）
+# print(load_history("logic/history.json"))
